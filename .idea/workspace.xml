@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dd2dd82-6ca3-4ba9-bf9a-d476b28a79b5" name="Changes" comment="ITVDN.com | Java Starter. Lesson 7. Home task #4 done.">
-      <change afterPath="$PROJECT_DIR$/src/Calculator2.java" afterDir="false" />
+    <list default="true" id="2dd2dd82-6ca3-4ba9-bf9a-d476b28a79b5" name="Changes" comment="ITVDN.com | Java Starter. Lesson 8. Additional task.">
+      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculator2">
+  <component name="RunManager" selected="Application.Bank">
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank" />
+      <module name="Java-Starter_itvdn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator2" />
       <module name="Java-Starter_itvdn" />
@@ -69,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Calculator2" />
         <item itemvalue="Application.NumbersCheck" />
         <item itemvalue="Application.Conversion" />
@@ -120,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653640540119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ITVDN.com | Java Starter. Lesson 8. Additional task.">
+      <created>1654341070844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654341070844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +154,7 @@
     <MESSAGE value="ITVDN. Java Starter. Lesson 7. Home task #2 done." />
     <MESSAGE value="ITVDN.com | Java Starter. Lesson 7. Home task #3 done." />
     <MESSAGE value="ITVDN.com | Java Starter. Lesson 7. Home task #4 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="ITVDN.com | Java Starter. Lesson 7. Home task #4 done." />
+    <MESSAGE value="ITVDN.com | Java Starter. Lesson 8. Additional task." />
+    <option name="LAST_COMMIT_MESSAGE" value="ITVDN.com | Java Starter. Lesson 8. Additional task." />
   </component>
 </project>
